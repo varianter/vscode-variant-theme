@@ -45,8 +45,8 @@
     "list.highlightForeground": "#ffffff",
     "list.hoverBackground": "#2E3245",
     "list.hoverForeground": "#ffffff",
-    "list.inactiveSelectionBackground": "#929ac90d",
-    "list.inactiveSelectionForeground": "#929ac9",
+    "list.inactiveSelectionBackground": "#B4E2DE0d",
+    "list.inactiveSelectionForeground": "#B4E2DE",
     "activityBar.background": "#33333d",
     "activityBar.dropBackground": "#6200EEe3",
     "activityBar.foreground": "#9CFFF6",
@@ -54,7 +54,7 @@
     "activityBarBadge.background": "#6200EE",
     "activityBarBadge.foreground": "#ffffff",
     "sideBar.background": "#33333D",
-    "sideBar.foreground": "#00B1A1",
+    "sideBar.foreground": "#F2F2F266",
     "sideBar.border": "#33333D",
     "sideBarTitle.foreground": "#9CFFF6",
     "sideBarSectionHeader.background": "#33333D",
@@ -71,7 +71,7 @@
     "tab.activeBorder": "#33333d",
     "tab.unfocusedActiveBorder": "#33333d",
     "tab.inactiveBackground": "#33333d",
-    "tab.inactiveForeground": "#929ac9",
+    "tab.inactiveForeground": "#B4E2DE",
     "tab.unfocusedActiveForeground": null,
     "tab.unfocusedInactiveForeground": null,
     "editor.background": "#33333D",
@@ -80,7 +80,7 @@
     "editorLineNumber.activeForeground": "#9CFFF6",
     "editorCursor.foreground": "#6200EE",
     "editorCursor.background": null,
-    "editor.selectionBackground": "#00B1A150",
+    "editor.selectionBackground": "#F2F2F250",
     "editor.selectionHighlightBackground": "#383D51",
     "editor.inactiveSelectionBackground": "#6200EE5a",
     "editor.wordHighlightBackground": "#383D51",
@@ -201,7 +201,7 @@
     "gitDecoration.ignoredResourceForeground": "#69709890",
     "gitDecoration.conflictingResourceForeground": "#FFEB95CC",
     "editorActiveLineNumber.foreground": "#9CFFF6",
-    "breadcrumb.foreground": "#00B1A1",
+    "breadcrumb.foreground": "#F2F2F2",
     "breadcrumb.focusForeground": "#bfc7d5",
     "breadcrumb.activeSelectionForeground": "#9CFFF6",
     "breadcrumbPicker.background": "#33333D"
@@ -1145,7 +1145,7 @@
       "name": "Markdown Headings",
       "scope": "markup.heading.markdown",
       "settings": {
-        "foreground": "#82b1ff"
+        "foreground": "#03DAC6"
       }
     },
     {
@@ -1208,7 +1208,7 @@
         "meta.link.inline.markdown punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#82b1ff"
+        "foreground": "#03DAC6"
       }
     },
     {
@@ -1222,7 +1222,7 @@
       "name": "Markdown List Punctuation",
       "scope": ["beginning.punctuation.definition.list.markdown"],
       "settings": {
-        "foreground": "#82b1ff"
+        "foreground": "#03DAC6"
       }
     },
     {
