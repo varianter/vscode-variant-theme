@@ -1,0 +1,53 @@
+{
+  "name": "variant-theme",
+  "publisher": "mikaelbr",
+  "author": "Mikael Brevik <mb@variant.no>",
+  "displayName": "Variant Theme",
+  "version": "1.0.0",
+  "description": "Fresh theme based on the colors of variant.no.",
+  "galleryBanner": {
+    "color": "#03DAC6",
+    "theme": "dark"
+  },
+  "icon": "icon.png",
+  "keywords": [
+    "fresh",
+    "variant",
+    "dark"
+  ],
+  "repository": {
+    "url": "https://github.com/varianter/vscode-variant-theme",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/varianter/vscode-variant-theme/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.12.0"
+  },
+  "scripts": {
+    "start": "nodemon --exec vsce package",
+    "build": "nodemon --watch src src"
+  },
+  "categories": [
+    "Themes",
+    "Other"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Variant Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/variant.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4",
+    "vsce": "^1.48.0"
+  },
+  "__metadata": {
+    "publisherDisplayName": "Mikael Brevik"
+  }
+}
