@@ -1,5 +1,6 @@
 # Variant Theme
 
+**Currently work in progress. Not yet available on markedplace.**
 
 ## Installation
 
