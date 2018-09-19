@@ -9,3 +9,7 @@
 1. Click **Install** to install it
 1. Click **Reload** to reload your editor
 1. Navigate to File > Preferences > Color Theme > **Variant Theme** or any of the variants listed
+
+## Thanks
+
+This theme is based on the [Panda VSCode theme](https://github.com/tinkertrain/panda-syntax-vscode).
