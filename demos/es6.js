@@ -1,9 +1,9 @@
-'use strict';
+'use strict'
 
-(( global ) => {
+;(global => {
   'use strict'
 
-  const links = Array.from( document.querySelectorAll('a[href="#0"]') )
+  const links = Array.from(document.querySelectorAll('a[href="#0"]'))
 
   // Disable link actions onclick
   links.forEach(link => {
@@ -17,5 +17,4 @@
   input.addEventListener('focus', () => {
     input.setAttribute('placeholder', '')
   })
-
 })(typeof window !== 'undefined' ? window : global)

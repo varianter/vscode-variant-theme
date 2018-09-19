@@ -11,9 +11,9 @@ colors:
   # -----------------------------------------------------------------------------
   # The far left sidebar (which can be hidden with: Toggle Activity Bar Visibility!)
   activityBar.background: _charcoal
-  activityBar.foreground: _foreground
+  activityBar.foreground: _green
   activityBar.border: _charcoal
-  activityBarBadge.background: _green
+  activityBarBadge.background: _foreground
   activityBarBadge.foreground: _background-dark
   # -----------------------------------------------------------------------------
   # Badges
@@ -172,8 +172,8 @@ colors:
   statusBar.foreground: _foreground
   statusBar.noFolderBackground: _background-dark
   statusBar.noFolderForeground: _foreground
-  statusBar.debuggingBackground: _purple
-  statusBar.debuggingForeground: _foreground
+  statusBar.debuggingBackground: _green
+  statusBar.debuggingForeground: _charcoal
   # statusBar.border: NONE
   # statusBarItem.prominentBackground: NONE
   # statusBarItem.prominentHoverBackground: NONE
@@ -189,7 +189,7 @@ colors:
   # -----------------------------------------------------------------------------
   tab.activeBackground: _background-light
   tab.activeForeground: _green
-  tab.activeBorder: _green
+  tab.activeBorder: _transparent
   tab.inactiveBackground: _background-dark
   tab.inactiveForeground: _foreground
   # tab.unfocusedActiveBorder: NONE

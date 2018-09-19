@@ -39,19 +39,32 @@
     {
       "scope": "storage",
       "settings": {
-        "foreground": "#DEC368"
+        "foreground": "#03DAC6"
+      }
+    },
+    {
+      "scope": "storage.type",
+      "settings": {
+        "foreground": "#FF0166"
       }
     },
     {
       "scope": "constant",
       "settings": {
-        "foreground": "#DEC368"
+        "foreground": "#FF0166"
+      }
+    },
+    {
+      "scope": "constant.language",
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#03DAC6"
       }
     },
     {
       "scope": "constant.character.escape",
       "settings": {
-        "foreground": "#423D89"
+        "foreground": "#03DAC6"
       }
     },
     {
@@ -75,19 +88,19 @@
     {
       "scope": "variable.other.constant, variable.language.this, variable.interpolation",
       "settings": {
-        "foreground": "#FF438E"
+        "foreground": "#FFF5D2"
       }
     },
     {
       "scope": "variable.other.object",
       "settings": {
-        "foreground": "#FF438E"
+        "foreground": "#FFF5D2"
       }
     },
     {
       "scope": "variable.other.property",
       "settings": {
-        "foreground": "#E6E6E6"
+        "foreground": "#FFFFFF"
       }
     },
     {
@@ -111,7 +124,7 @@
     {
       "scope": "punctuation.definition.template-expression",
       "settings": {
-        "foreground": "#FFF5D2"
+        "foreground": "#FF0166"
       }
     },
     {
@@ -129,7 +142,7 @@
     {
       "scope": "support.type.object.module.js",
       "settings": {
-        "foreground": "#6200EE"
+        "foreground": "#893DF6"
       }
     },
     {
@@ -159,7 +172,7 @@
     {
       "scope": "meta.decorator punctuation.decorator",
       "settings": {
-        "foreground": "#DEC368"
+        "foreground": "#FF0166"
       }
     },
     {
@@ -177,7 +190,7 @@
     {
       "scope": "keyword.control.at-rule",
       "settings": {
-        "foreground": "#6200EE"
+        "foreground": "#893DF6"
       }
     },
     {
@@ -214,7 +227,7 @@
     {
       "scope": "entity.unescaped.expression",
       "settings": {
-        "foreground": "#6200EE"
+        "foreground": "#893DF6"
       }
     },
     {
@@ -403,7 +416,7 @@
     {
       "scope": "keyword.control.export.js",
       "settings": {
-        "foreground": "#6200EE"
+        "foreground": "#893DF6"
       }
     },
     {
@@ -534,13 +547,13 @@
     "foreground": "#E6E6E6",
     "errorForeground": "#FF4343",
     "activityBar.background": "#33333D",
-    "activityBar.foreground": "#E6E6E6",
+    "activityBar.foreground": "#03DAC6",
     "activityBar.border": "#33333D",
-    "activityBarBadge.background": "#03DAC6",
+    "activityBarBadge.background": "#E6E6E6",
     "activityBarBadge.foreground": "#33333D",
     "badge.background": "#7B73EA",
     "badge.foreground": "#33333D",
-    "progressBar.background": "#6200EE",
+    "progressBar.background": "#893DF6",
     "button.background": "#423D89",
     "button.foreground": "#FFFFFF",
     "button.hoverBackground": "#868688",
@@ -607,15 +620,15 @@
     "statusBar.foreground": "#E6E6E6",
     "statusBar.noFolderBackground": "#33333D",
     "statusBar.noFolderForeground": "#E6E6E6",
-    "statusBar.debuggingBackground": "#6200EE",
-    "statusBar.debuggingForeground": "#E6E6E6",
+    "statusBar.debuggingBackground": "#03DAC6",
+    "statusBar.debuggingForeground": "#33333D",
     "titleBar.activeBackground": "#33333D",
     "titleBar.activeForeground": "#E6E6E6",
     "titleBar.inactiveBackground": "#33333D",
     "titleBar.inactiveForeground": "#E6E6E6",
     "tab.activeBackground": "#33333D",
     "tab.activeForeground": "#03DAC6",
-    "tab.activeBorder": "#03DAC6",
+    "tab.activeBorder": "#00000000",
     "tab.inactiveBackground": "#33333D",
     "tab.inactiveForeground": "#E6E6E6",
     "terminalCursor.background": "#E6E6E6",
@@ -629,7 +642,7 @@
     "terminal.ansiBrightRed": "#E60057",
     "terminal.ansiBrightWhite": "#E6E6E6",
     "terminal.ansiBrightYellow": "#FFF5D2",
-    "terminal.ansiCyan": "#6200EE",
+    "terminal.ansiCyan": "#893DF6",
     "terminal.ansiGreen": "#03DAC6",
     "terminal.ansiMagenta": "#FF0166",
     "terminal.ansiRed": "#E60057",
