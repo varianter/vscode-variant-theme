@@ -7,44 +7,44 @@ _lighter-gray: '#CDCDCD'
 _lighter-gray-fade: '#CDCDCD30'
 _contrast-gray: '#BBBBBB'
 _light-gray: '#757575'
-_light-midnight: '#FFC4BC'
+_light-midnight: '#868688'
 _steel-gray: '#555568'
 _gray: '#5B5B62'
 _gray-fade: '#5B5B6299'
 _seal: '#45454B' # Light background
-_very-dark-gray: '#33333d' # Dark background
-_charcoal: '#222223' # Use for borders between gray backgrounds
+_very-dark-gray: '#33333D' # Dark background
+_charcoal: '#33333D' # Use for borders between gray backgrounds
 
 # -----------------------------------------------------------------------------
 # Blue+Purple+Green
 # -----------------------------------------------------------------------------
-_blue: '#03DAC6'
-_light-blue: '#AB7DEC'
+_blue: '#423D89'
+_light-blue: '#7B73EA'
 _purple: '#6200EE'
-_purple-fade: '#B084EB60'
-_light-purple: '#7616FF'
+_light-purple: '#893DF6'
+_purple-fade: '#6200EE60'
 _green: '#03DAC6'
-_light-green: '#59FDED'
-_green-fade: '#19f9d899'
+_light-green: '#86FFF4'
+_green-fade: '#03DAC699'
 # -----------------------------------------------------------------------------
 # Pink+Red+Orange
 # -----------------------------------------------------------------------------
-_red: '#FF0166'
-_light-red: '#FF438E'
-_orange: '#FF438E'
-_light-orange: '#FFB86C'
-_light-orange-fade: '#FFB86C60'
-_pink: '#FFC4BC'
-_light-pink: '#EDE8D7'
-_light-pink-fade: '#EDE8D770'
+_red: '#E60057'
+_light-red: '#FF4343'
+_orange: '#DEC368'
+_light-orange: '#FFF5D2'
+_light-orange-fade: '#DEC36860'
+_pink: '#FF0166'
+_light-pink: '#FF438E'
+_light-pink-fade: '#FF016670'
 
 # -----------------------------------------------------------------------------
 # Element Colors
 # -----------------------------------------------------------------------------
 # Two backgrounds are used to provide contrast between section in editor.
 # Foreground color for normal font, use green for contrast fonts
-_background-dark: '#222223' # very-dark-gray
-_background-light: '#222223' # seal
+_background-dark: '#33333D' # very-dark-gray
+_background-light: '#33333D' # seal
 _foreground: '#E6E6E6' # very-light-gray
 _diff-green: '#59FDED66'
 _diff-red: '#FF016666'
