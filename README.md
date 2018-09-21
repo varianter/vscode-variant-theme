@@ -2,6 +2,8 @@
 
 **Currently work in progress. Not yet available on markedplace.**
 
+![Screenshot](./screenshot.png)
+
 ## Installation
 
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
