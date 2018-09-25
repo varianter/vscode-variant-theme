@@ -1,6 +1,6 @@
 {
   "name": "variant-theme",
-  "publisher": "mikaelbr",
+  "publisher": "variant",
   "author": "Mikael Brevik <mb@variant.no>",
   "displayName": "Variant Theme",
   "version": "1.0.0",
@@ -10,11 +10,7 @@
     "theme": "dark"
   },
   "icon": "icon.png",
-  "keywords": [
-    "fresh",
-    "variant",
-    "dark"
-  ],
+  "keywords": ["fresh", "variant", "dark"],
   "repository": {
     "url": "https://github.com/varianter/vscode-variant-theme",
     "type": "git"
@@ -29,10 +25,7 @@
   "scripts": {
     "start": "node build.js && vsce package"
   },
-  "categories": [
-    "Themes",
-    "Other"
-  ],
+  "categories": ["Themes", "Other"],
   "contributes": {
     "themes": [
       {
@@ -47,6 +40,6 @@
     "vsce": "^1.50.0"
   },
   "__metadata": {
-    "publisherDisplayName": "Mikael Brevik"
+    "publisherDisplayName": "Variant"
   }
 }
