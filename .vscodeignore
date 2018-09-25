@@ -1,10 +1,9 @@
 package-lock.json
 .gitattributes
 demos/**
+themes/**
+.vscode/**
 **/*.map
 .gitignore
 node_modules
-.editorconfig
-.babelrc
-.eslintrc
-yarn.lock
+*.vsix
